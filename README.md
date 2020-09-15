@@ -9,6 +9,7 @@ The Figures depict some representative images of the final dataset, to point out
 ![alt text](https://user-images.githubusercontent.com/26176656/93201908-85ac4b80-f75a-11ea-973a-878c1b86cca1.jpg?raw=true)
 
 Cite As:
+
 E. Badeka, T. Kalampokas, E. Vrochidou, K. Tziridis, G. A. Papakostas, T. Pachidis, V. G. Kaburlasos, Real-time Vineyard Trunk Detection for a Grapes Harvesting Robot via Deep Learning, The 13th International Conference on Machine Vision (ICMV 2020), November 02-06, 2020, Rome, Italy
 
 References
