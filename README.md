@@ -5,11 +5,11 @@ The HUMAIN-Lab Vine-Trunk database consists of images (.jpeg) of vineyard trunks
 
 All images of the in-house designed  dataset are captured by an RGB high resolution Samsung NX500 Mirrorless camera from three vineyards of well-known North Greek wine producers as part of a national research program [2]. The images are collected under natural daylight including disturbances such as varying illumination or shadowing. These conditions are giving the adequate variety to the training process. The main challenge is that the trunks have the same brown colour with the background, i.e. the terrain, and that in all images more than one trunk is depicted causing great occlusions that obstruct the detection task.
 
-Cite As:
-E. Badeka, T. Kalampokas, E. Vrochidou, K. Tziridis, G. A. Papakostas, T. Pachidis, V. G. Kaburlasos, Real-time Vineyard Trunk Detection for a Grapes Harvesting Robot via Deep Learning, The 13th International Conference on Machine Vision (ICMV 2020), November 02-06, 2020, Rome, Italy
-
 The Figures depict some representative images of the final dataset, to point out the diversity and difficulties. Occlusion due to vegetation or leaves on the trunk, blur effects due to the movement of the camera, illumination and shadowing conditions, are some of the common difficulties of the in-field trunk-detection task.
 ![alt text](https://user-images.githubusercontent.com/26176656/93201908-85ac4b80-f75a-11ea-973a-878c1b86cca1.jpg?raw=true)
+
+Cite As:
+E. Badeka, T. Kalampokas, E. Vrochidou, K. Tziridis, G. A. Papakostas, T. Pachidis, V. G. Kaburlasos, Real-time Vineyard Trunk Detection for a Grapes Harvesting Robot via Deep Learning, The 13th International Conference on Machine Vision (ICMV 2020), November 02-06, 2020, Rome, Italy
 
 References
 [1] Tzutalin., “Labellmg,” Git code, 2015, <https://github.com/tzutalin/labelImg> (26 May 2020 )    
