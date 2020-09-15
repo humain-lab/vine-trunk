@@ -12,5 +12,6 @@ Cite As:
 E. Badeka, T. Kalampokas, E. Vrochidou, K. Tziridis, G. A. Papakostas, T. Pachidis, V. G. Kaburlasos, Real-time Vineyard Trunk Detection for a Grapes Harvesting Robot via Deep Learning, The 13th International Conference on Machine Vision (ICMV 2020), November 02-06, 2020, Rome, Italy
 
 References
+
 [1] Tzutalin., “Labellmg,” Git code, 2015, <https://github.com/tzutalin/labelImg> (26 May 2020 )    
 [2] “Personalized Optimal Grape Harvest by Autonomous Robot (POGHAR).”, Hum. Lab, 2018, <http://evtar.eu/> 
