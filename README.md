@@ -8,6 +8,7 @@ All images of the in-house designed  dataset are captured by an RGB high resolut
 Cite As:
 E. Badeka, T. Kalampokas, E. Vrochidou, K. Tziridis, G. A. Papakostas, T. Pachidis, V. G. Kaburlasos, Real-time Vineyard Trunk Detection for a Grapes Harvesting Robot via Deep Learning, The 13th International Conference on Machine Vision (ICMV 2020), November 02-06, 2020, Rome, Italy
 
+The Figures depict some representative images of the final dataset, to point out the diversity and difficulties. Occlusion due to vegetation or leaves on the trunk, blur effects due to the movement of the camera, illumination and shadowing conditions, are some of the common difficulties of the in-field trunk-detection task.
 ![alt text](https://user-images.githubusercontent.com/26176656/93201908-85ac4b80-f75a-11ea-973a-878c1b86cca1.jpg?raw=true)
 
 References
